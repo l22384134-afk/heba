@@ -1,12 +1,10 @@
 {
-  "android_version": "",
-  "ios_version": "",
   "files": [
     {
       "crc_xxhashct": 948708251,
       "filesize": 22248309,
       "link": "files",
-      "path": "audio/audiostream/streams.bpc",
+      "path": "audio/audiostream/streams.bpc,
       "rule_file": "base"
     },
     {
@@ -35,13 +33,6 @@
       "filesize": 7518894,
       "link": "files",
       "path": "common.bpc",
-      "rule_file": "base"
-    },
-    {
-      "crc_xxhashct": 3824013613,
-      "filesize": 0,
-      "link": "files",
-      "path": "date_marker_19963_e6612bd9_1770173195005",
       "rule_file": "base"
     },
     {
@@ -8409,7 +8400,7 @@
   "forced_download_pc": false,
   "forced_download_rustore": false,
   "forced_download_site": false,
-  "hash_commit": "29397_d89f634d_1794653818933",
+  "hash_commit": "29398_d89f634d_1794653818933",
   "link": "files",
   "patches": [
     
