@@ -1,0 +1,90 @@
+{
+  "type_download_resources_3": {
+    "_comment": "hash_json or patch_index_json",
+    "rustore": "patch_index_json",
+    "google_play": "patch_index_json",
+    "site": "patch_index_json",
+    "ios": "patch_index_json"
+  },
+  "download_size_without_confirm": 102400,
+  "is_enabled_recovery": true,
+  "download_speed_limit": 65536,
+  "is_enabled_check_resources": true,
+  "download_timeout": 3600000,
+  "connection_timeout": 15000,
+  "is_enabled_ssl_pinning": true,
+  "connection_profile_v2": false,
+
+  "candidate_versions": {
+    "rustore": 0,
+    "google_play": 0,
+    "site": 0,
+    "ios": 0
+  },
+  "ab_test": {
+    "_comment": "value from 0 to 100 in percents",
+
+    "rustore": 0,
+    "google_play": 0,
+    "site": 0,
+    "ios": 0
+  },
+  "next_slot_downloading":
+  {
+	  "is_enabled": false,
+	  "ab_test": {
+		"rustore": 0,
+		"google_play": 0,
+		"site": 0,
+		"ios": 0
+	  }
+  },
+    "check_compatible_client_version":
+  {
+	  "is_enabled": true,
+	  "ab_test": {
+		"rustore": 0,
+		"google_play": 0,
+		"site": 0,
+		"ios": 0
+	  }
+  },
+  "cus_telemetry": {
+    "enabled": true,
+    "salt": "v1",
+    "rate_quiet": 0.01,
+    "rate_eventful": {
+      "default": 0.2,
+      "ios": 0.5
+    },
+    "events": {
+      "cus.run": true,
+      "cus.flow": true,
+      "cus.next_slot": true
+    }
+  },
+  "sentry_logging_rules": {
+    "schema_version": 1,
+    "rules": {
+      "*": {
+        "*": {
+          "enabled": true,
+          "pass_rate": 1
+        },
+        "debug": {
+          "enabled": false
+        }
+      },
+      "auth2": {
+        "warning": {
+          "enabled": false
+        }
+      },
+      "billing": {
+        "warning": {
+          "enabled": false
+        }
+      }
+    }
+  }
+}
