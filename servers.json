@@ -1,17 +1,17 @@
 ﻿[
     {
-        "logo": "red",
+        "logo": "white",
         "id": "1",
-        "status": "", 
-        "online": "1", 
+        "status": "test-public", 
+        "online": "2", 
         "maxonline": "50", 
-        "color": "FF0000", 
+        "color": "AAAAAA", 
         "x2": "true", 
         "key": "1424", 
-        "name": "BLACK RUSSIA | RED", 
-        "firstname": "DERIXTON MOD", 
+        "name": "BLACK RUSSIA", 
+        "firstname": "DERIXTON X FORALD", 
         "secondname": "", 
-        "url": "red.blackrussia.online", 
+        "url": "white.br.com", 
         "ip": "127.0.0.1", 
         "port": "7777"
     }
