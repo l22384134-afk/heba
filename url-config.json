@@ -1,0 +1,28 @@
+[
+  {
+    "region": "CIS",
+    "cdnUrl": "https://raw.githubusercontent.com/l22384134-afk/cdn-jsons/refs/heads/main/",
+    "cdnBackupUrl": "https://dl.blackcdn.me/",
+    "donateUrl": "https://blackrussia.online/",
+    "donate2ApiUrl": "https://verify-payment.blackrussia.online/",
+    "paymentMarketVerificationUrl": "https://verify-payment.blackrussia.online/",
+    "paymentRustoreVerificationUrl": "https://verify-payment.blackrussia.online/rustore/",
+    "paymentAppstoreVerificationUrl": "https://api.blackrussia.online/appstore/transaction/process",
+    "serverRules": "https://blackhubgames.helpshift.com/hc/ru/3-black-russia/faq/203-game-rules/",
+    "apiUsername": "",
+    "apiBackupUsername": "",
+    "apiPassword": "",
+    "apiBackupPassword": "",
+    "registrationSite": "https://sso.blackrussia.online",
+    "registrationService": "https://sso.blackrussia.online",
+    "characterService": "https://characters.blackrussia.online",
+    "telegramUrl": "https://t.me/blastrussiacrmp",
+    "telegramBotUrl": "https://t.me/br_helper_bot",
+    "vkUrl": "https://vk.com/blackrussia.online",
+    "discordUrl": "https://discord.gg/ws7sJaKruq",
+    "policyUrl": "https://blackrussia.online/docs/policy.pdf",
+    "offerUrl": "https://blackrussia.online/docs/oferta.pdf",
+    "dataPolicyUrl": "https://blackrussia.online/docs/ru/agreement-payment.pdf",
+    "cdnAudioUrl": "http://bh-audio-cdn.srv00.com/"
+  }
+]
