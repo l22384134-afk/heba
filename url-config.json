@@ -1,8 +1,8 @@
 [
   {
     "region": "CIS",
-    "cdnUrl": "https://dl.blackcdn.me/",
-    "cdnBackupUrl": "https://rsv.br-dl.com/",
+    "cdnUrl": "https://raw.githubusercontent.com/l22384134-afk/cdn-jsons/refs/heads/main/",
+    "cdnBackupUrl": "https://raw.githubusercontent.com/l22384134-afk/heba/refs/heads/main/",
     "donateUrl": "https://blackrussia.online/",
     "donate2ApiUrl": "https://verify-payment.blackrussia.online/",
     "paymentMarketVerificationUrl": "https://verify-payment.blackrussia.online/",
@@ -16,7 +16,7 @@
     "registrationSite": "https://sso.blackrussia.online",
     "registrationService": "https://sso.blackrussia.online",
     "characterService": "https://characters.blackrussia.online",
-    "telegramUrl": "https://t.me/br_dev",
+    "telegramUrl": "https://t.me/blastrussiacrmp",
     "telegramBotUrl": "https://t.me/br_helper_bot",
     "vkUrl": "https://vk.com/blackrussia.online",
     "discordUrl": "https://discord.gg/ws7sJaKruq",
@@ -24,31 +24,5 @@
     "offerUrl": "https://blackrussia.online/docs/oferta.pdf",
     "dataPolicyUrl": "https://blackrussia.online/docs/ru/agreement-payment.pdf",
     "cdnAudioUrl": "http://bh-audio-cdn.srv00.com/"
-  },
-  {
-    "region": "WORLD",
-    "cdnUrl": "https://dl.black-russia.com/",
-    "cdnBackupUrl": "https://dl.black-russia.com/",
-    "donateUrl": "https://black-russia.com/",
-    "donate2ApiUrl": "https://verify-pay.black-russia.com/",
-    "paymentMarketVerificationUrl": "https://verify-pay.black-russia.com/",
-    "paymentRustoreVerificationUrl": "https://verify-pay.black-russia.com/rustore/",
-    "paymentAppstoreVerificationUrl": "https://appstore-payment.black-russia.com/transaction/process",
-    "serverRules": "https://blackhubgames.helpshift.com/hc/pt-br/3-black-russia/faq/203-game-rules/",
-    "apiUsername": "",
-    "apiBackupUsername": "",
-    "apiPassword": "",
-    "apiBackupPassword": "",
-    "registrationSite": "https://sso.black-russia.com",
-    "registrationService": "https://sso.black-russia.com",
-    "characterService": "https://characters.black-russia.com",
-    "telegramUrl": "https://t.me/blackrussia_brasil",
-    "telegramBotUrl": "https://t.me/br_helper_eu_bot",
-    "vkUrl": "",
-    "discordUrl": "https://discord.gg/xrqU684mAn",
-    "policyUrl": "https://black-russia.com/docs/brazil/privacy-policy-brazil.pdf",
-    "offerUrl": "https://black-russia.com/docs/brazil/terms-of-service-brazil.pdf",
-    "dataPolicyUrl": "",
-    "cdnAudioUrl": "https://audio-cdn.black-russia.net/"
   }
 ]
